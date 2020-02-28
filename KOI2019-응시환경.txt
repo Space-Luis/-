@@ -1,0 +1,11 @@
+응시 환경
+OS: Windows 7, Windows 8, Windows 10 중 하나
+웹 브라우저: Google Chrome
+채점 방식: 웹 브라우저를 사용해 Contest Management System 서버에 접속 (서버 링크는 시험 당일 공지 예정이며, 시험 이전에 체험할 수 있도록 이번 주 내에 안내 예정)
+개발 환경:
+C/C++:
+Code::Blocks 17.12 (http://www.codeblocks.org/)
+Dev-C++ 5.11 (https://sourceforge.net/projects/orwelldevcpp/)
+Python: Python 2.7.x, Python 3.7.x (https://www.python.org/downloads/windows/)
+Java: OpenJDK 12 8, Eclipse (https://www.eclipse.org/downloads/)
+위의 문단에 명시된 프로그램 이외에 대회 중에 추가적으로 사용할 수 있는 프로그램은 추후 공지할 예정입니다. 사용 가능하지 않은 프로그램을 사용하다 적발될 시 부정행위로 간주됩니다.
